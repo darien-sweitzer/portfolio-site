@@ -25,13 +25,6 @@ export const siteConfig = {
       link: "https://the-dungeon-game.vercel.app/",
       skills: ["Vite", "React", "JavaScript", "CSS", "Vercel"],
     },
-    {
-      name: "URL Shortener Web App",
-      description:
-        "Full-stack web app that generates short links with analytics tracking. Built with React, Firebase, Python Flask, and Heroku.",
-      link: "https://dees-ez-links-fa9d53fd4b10.herokuapp.com/app",
-      skills: ["React", "Node.js", "Python", "Firebase", "Heroku"],
-    },
   ],
   experience: [
     {
