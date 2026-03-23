@@ -15,7 +15,7 @@ export const siteConfig = {
       name: "URL Shortener Web App",
       description:
         "Full-stack web app that generates short links from long URLs with an optional custom alias.",
-      link: "https://dees-ez-links-fa9d53fd4b10.herokuapp.com/app",
+      link: "http://deelinks.xyz/app",
       skills: ["React", "Node.js", "Python", "Firebase", "Heroku"],
     },
     {
