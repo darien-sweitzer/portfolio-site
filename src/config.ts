@@ -7,8 +7,10 @@ export const siteConfig = {
     email: "sweitzerdarien@gmail.com",
     github: "https://github.com/darien-sweitzer",
   },
-  aboutMe:
-    "I am a 3+ year Senior IT Specialist Technician at the 2nd largest hospital in Pittsburgh, Allegheny General Hospital. I am also a graduate of Software Engineering that's very excited to start my career and would love to do that with a company that actually makes a difference in the world. I am a huge team player that is willing to make sacrifices for the greater good of my peers while also being self-sufficient in my duties. Goal-oriented, self driven, and highly focused on moving forward, I know that I could be of great benefit to any company and a great fit into the culture of your team!",
+  aboutMe: [
+    "I am a 3+ year Senior IT Specialist Technician at the 2nd largest hospital in Pittsburgh, Allegheny General Hospital. With a background in Software Engineering, I bring a strong foundation in troubleshooting, systems thinking, and technical problem-solving. I am a hands-on technical problem solver with strong debugging skills from a CS background, and I enjoy working directly with systems, users, and real-world challenges.",
+    "I am very excited to continue building my career with a company that makes a meaningful impact. I am a strong team player who is willing to make sacrifices for the greater good of my peers while also remaining self-sufficient in my responsibilities. Goal-oriented, self-driven, and highly focused on continuous growth, I am confident I can bring value to any team and contribute positively to its culture.",
+  ],
   skills: ["Java", "Git", "SDLC", "Javascript", "React", "Node.js", "Python", "AWS"],
   projects: [
     {
