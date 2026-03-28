@@ -34,9 +34,10 @@ export const siteConfig = {
       title: "IT Infrastructure Specialist",
       dateRange: "May 2023 - Present",
       bullets: [
-        "Managed large projects to deploy all new hardware & software in hospital departments from scratch",
-        "Collaborated with seperate teams to ensure seamless integration of new technologies",
-        "Used Communication skills to work with new users everyday to troubleshoot and resolve technical issues",
+        "Diagnosed and resolved hardware, software, and system issues in a high-volume hospital environment, ensuring minimal downtime for critical operations",
+        "Managed Large Projects to deploy all new hardware and software in hospital departments from scratch, starting from phase 1 all the way to deployment; including planning, installation, configuration, and post-deployment support",
+        "Collaborated with multiple separate teams at once to ensure seamless integration of new technologies, while proactively identifying risks and mitigating issues during implementation phases",
+        "Used Communication skills to work with new users everyday to troubleshoot and resolve technical issues, while being able to explain technical aspects to non-technical users",
       ],
     },
     {
