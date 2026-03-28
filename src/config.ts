@@ -68,8 +68,8 @@ export const siteConfig = {
       dateRange: "2026",
       achievements: [
         "Completed 600+ hours of coursework",
-        "Built 4+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Built multiple full-stack web application projects — Utilizing React and Node.js",
+        "Gained proficiency in JavaScript, HTML, CSS, and various web development technologies",
       ],
     },
   ],
