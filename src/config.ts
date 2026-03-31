@@ -54,22 +54,21 @@ export const siteConfig = {
   education: [
     {
       school: "Community College of Allegheny County",
-      degree: "Associate of Science in Computer Science | Software Engineering",
+      degree: "Associate of Computer Science | Software Engineering",
       dateRange: "2019 - 2021",
       achievements: [
-        "A+'s in all programming courses",
-        "Graduated with 3.5 GPA",
+        "A+'s in all programming courses - 4.0 GPA",
         "Tutor for advanced Java",
+        "Courses: Object-Oriented Programming, Advanced Java, Data Structures and Algorithms, Web Development, System Design, C and C++, Python",
       ],
     },
     {
-      school: "Free Code Camp .com",
-      degree: "Full Stack Development Certificate",
+      school: "Western Governors University",
+      degree: "Bachelors of Software Engineering - IN PROGRESS",
       dateRange: "2026",
       achievements: [
-        "Completed 600+ hours of coursework",
-        "Built multiple full-stack web application projects — Utilizing React and Node.js",
-        "Gained proficiency in JavaScript, HTML, CSS, and various web development technologies",
+        "Currently enrolled for B.S. in Software Engineering with expected graduation at the end of 2026",
+        "Courses: Version Control, Java Frameworks, User Experience Design, Software Security, Mobile Application Development, Cloud Foundations, Data Management",
       ],
     },
   ],
