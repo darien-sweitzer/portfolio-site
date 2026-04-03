@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Darien Sweitzer",
-  title: "IT Infrastructure Specialist in Healthcare | Full Stack Developer in the Making",
+  title: "IT Infrastructure Specialist in Healthcare | Problem Solver",
   description: "Portfolio website of Darien Sweitzer",
   accentColor: "#7520ff",
   social: {
@@ -8,10 +8,11 @@ export const siteConfig = {
     github: "https://github.com/darien-sweitzer",
   },
   aboutMe: [
-    "I am a 3+ year Senior IT Specialist Technician at the 2nd largest hospital in Pittsburgh, Allegheny General Hospital. With a background in Software Engineering, I bring a strong foundation in troubleshooting, systems thinking, and technical problem-solving. I am a hands-on technical problem solver with strong debugging skills from a CS background, and I enjoy working directly with systems, users, and real-world challenges.",
-    "I am very excited to continue building my career with a company that makes a meaningful impact. I am a strong team player who is willing to make sacrifices for the greater good of my peers while also remaining self-sufficient in my responsibilities. Goal-oriented, self-driven, and highly focused on continuous growth, I am confident I can bring value to any team and contribute positively to its culture.",
+    "I am an IT Infrastructure Specialist with 3+ years of experience supporting systems in a high-volume healthcare environment at Allegheny General Hospital, one of the largest hospitals in Pittsburgh. My work includes troubleshooting and supporting clinical applications such as Epic, resolving user issues, and ensuring reliable system performance in environments where uptime is critical to patient care.",
+    "With a background in Software Engineering, I bring strong analytical thinking, system-level troubleshooting skills, and the ability to quickly understand complex workflows across both technical and clinical teams. I enjoy working directly with users and systems to diagnose issues, improve processes, and support efficient day-to-day operations.",
+    "I am focused on continuing my career in healthcare IT as an Epic-focused systems or application analyst, where I can contribute to maintaining and improving critical systems that directly impact patient outcomes. I am a team-oriented, dependable professional who takes ownership of responsibilities while continuously seeking opportunities to grow and add value.",
   ],
-  skills: ["Java", "Git", "SDLC", "Javascript", "React", "Node.js", "Python", "AWS"],
+  skills: ["Windows", "EPIC", "MS Office", "Active Directory", "Software", "Systems", "Issue Resolution", "Healthcare"],
   projects: [
     {
       name: "URL Shortener Web App",
@@ -34,9 +35,11 @@ export const siteConfig = {
       title: "IT Infrastructure Specialist",
       dateRange: "May 2023 - Present",
       bullets: [
-        "Diagnosed and resolved hardware, software, and system issues in a high-volume hospital environment, ensuring minimal downtime for critical operations",
-        "Managed Large Projects to deploy all new hardware and software in hospital departments from scratch, starting from phase 1 all the way to deployment; including planning, installation, configuration, and post-deployment support",
-        "Collaborated with multiple separate teams at once to ensure seamless integration of new technologies, while proactively identifying risks and mitigating issues during implementation phases",
+        "Delivered IT support within a healthcare environment, working directly with clinicians and administrative staff to maintain uptime and reliability of mission-critical systems",
+        "Performed systems administration tasks including user provisioning, system configuration support, incident resolution, and root cause analysis for hospital IT systems and Epic-related issues",
+        "Collaborated with application analysts, clinical teams, and infrastructure groups to support and maintain EHR system functionality and integrations across hospital departments",
+        "Managed and resolved 40+ weekly IT service tickets for healthcare systems, ensuring minimal downtime for critical operations, clinical workflows, and patient care operations",
+        "Provided Tier 2/3 support and system administration for clinical applications like Epic; troubleshooting user access, systems, and workflow issues in a high-volume hospital environment",
         "Used Communication skills to work with new users everyday to troubleshoot and resolve technical issues, while being able to explain technical aspects to non-technical users",
       ],
     },
@@ -45,9 +48,7 @@ export const siteConfig = {
       title: "Construction Worker",
       dateRange: "Jan 2022",
       bullets: [
-        "Learned the importance of hard work & dedication while working 50+ hour weeks in a physically demanding job",
-        "Developed valuable skills in teamwork, communication, & problem-solving while working on a construction site",
-        "Made sacrifices for the greater good of my team, even if it meant taking on extra work for myself",
+        "Worked in fast-paced, physically demanding environments requiring consistency, teamwork, and problem-solving; while maintaining high reliability and accountability for meeting strict project deadlines",
       ],
     },
   ],
