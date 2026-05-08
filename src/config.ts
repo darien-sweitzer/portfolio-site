@@ -15,6 +15,13 @@ export const siteConfig = {
   skills: ["Windows", "EPIC", "MS Office", "Active Directory", "Software", "Systems", "Issue Resolution", "Healthcare"],
   projects: [
     {
+      name: "CLI Password Manager",
+      description:
+        "Python-based secure password manager implementing encryption (Fernet), bcrypt authentication, and SQLite database storage. Supports CRUD operations for credentials, password generation, strength validation, and clipboard integration via a modular CLI architecture.",
+      link: "https://github.com/darien-sweitzer/PasswordVault-CLI/blob/main/README.md",
+      skills: ["Python", "Bcrypt", "SQLite", "Fernet"],
+    },
+    {
       name: "URL Shortener Web App",
       description:
         "Full-stack web app that generates short links from long URLs with an optional custom alias.",
