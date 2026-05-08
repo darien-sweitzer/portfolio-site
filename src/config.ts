@@ -10,9 +10,9 @@ export const siteConfig = {
   aboutMe: [
     "I am an IT Infrastructure Specialist with 3+ years of experience supporting systems in a high-volume healthcare environment at Allegheny General Hospital, one of the largest hospitals in Pittsburgh. My work includes troubleshooting and supporting clinical applications such as Epic, resolving user issues, and ensuring reliable system performance in environments where uptime is critical to patient care.",
     "With a background in Software Engineering, I bring strong analytical thinking, system-level troubleshooting skills, and the ability to quickly understand complex workflows across both technical and clinical teams. I enjoy working directly with users and systems to diagnose issues, improve processes, and support efficient day-to-day operations.",
-    "I am focused on continuing my career in healthcare IT as an Epic-focused systems or application analyst, where I can contribute to maintaining and improving critical systems that directly impact patient outcomes. I am a team-oriented, dependable professional who takes ownership of responsibilities while continuously seeking opportunities to grow and add value.",
+    "I am focused on continuing my career in tech and pursuing innovation in the IT industry, where I can contribute to maintaining and building critical systems that directly impact users' and their experience. I am a team-oriented, dependable professional who takes ownership of responsibilities while continuously seeking opportunities to grow and add value. ",
   ],
-  skills: ["Windows", "EPIC", "MS Office", "Active Directory", "Software", "Systems", "Issue Resolution", "Healthcare"],
+  skills: ["Windows", "EPIC", "MS Office", "Active Directory", "Software", "Systems", "Issue Resolution", "Healthcare", "Engineering"],
   projects: [
     {
       name: "CLI Password Manager",
